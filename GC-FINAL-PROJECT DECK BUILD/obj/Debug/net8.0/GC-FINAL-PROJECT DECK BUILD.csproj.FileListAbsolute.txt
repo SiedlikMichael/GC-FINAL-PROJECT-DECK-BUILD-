@@ -1,0 +1,19 @@
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.exe
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.deps.json
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.runtimeconfig.json
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.dll
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.pdb
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.csproj.AssemblyReference.cache
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.AssemblyInfoInputs.cache
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.AssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.csproj.CoreCompileInputs.cache
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.sourcelink.json
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL.2D06554B.Up2Date
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.dll
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\refint\GC-FINAL-PROJECT DECK BUILD.dll
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.pdb
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\GC-FINAL-PROJECT DECK BUILD.genruntimeconfig.cache
+C:\Users\Michael Storm\source\repos\GC-FINAL-PROJECT DECK BUILD\GC-FINAL-PROJECT DECK BUILD\obj\Debug\net8.0\ref\GC-FINAL-PROJECT DECK BUILD.dll

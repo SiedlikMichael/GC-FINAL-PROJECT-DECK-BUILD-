@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDVYcbrBNYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael Storm\\source\\repos\\GC-FINAL-PROJECT DECK BUILD\\GC-FINAL-PROJECT DECK BUILD\\GC-FINAL-PROJECT DECK BUILD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
+    "C:\\Users\\Michael Storm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.10\\microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
