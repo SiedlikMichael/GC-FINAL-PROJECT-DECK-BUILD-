@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("GC-FINAL-PROJECT DECK BUILD")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5627041888799db51a9dfb218e3512c04bb97f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("GC-FINAL-PROJECT DECK BUILD")]
