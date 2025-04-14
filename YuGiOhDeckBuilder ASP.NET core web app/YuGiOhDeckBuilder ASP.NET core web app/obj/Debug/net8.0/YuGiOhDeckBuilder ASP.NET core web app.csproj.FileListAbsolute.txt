@@ -1,0 +1,9 @@
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.AssemblyInfoInputs.cache
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.AssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.csproj.CoreCompileInputs.cache
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.RazorAssemblyInfo.cache
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.RazorAssemblyInfo.cs
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.sourcelink.json
+C:\Users\Michael Storm\source\repos\YuGiOhDeckBuilder ASP.NET core web app\YuGiOhDeckBuilder ASP.NET core web app\obj\Debug\net8.0\YuGiOhDeckBuilder ASP.NET core web app.csproj.AssemblyReference.cache
